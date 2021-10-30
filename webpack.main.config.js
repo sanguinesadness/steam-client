@@ -5,10 +5,11 @@ module.exports = {
      */
     entry: './src/index.ts',
     // Put your normal webpack config below here
+    devtool: "nosources-source-map",
     module: {
         rules: require('./webpack.rules'),
     },
     resolve: {
         extensions: ['.js', '.ts', '.jsx', '.tsx', '.css', '.json', '.svg']
-    },
+    }
 };

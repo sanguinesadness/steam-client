@@ -1,0 +1,112 @@
+@font-face {
+  font-family: Poppins;
+  font-weight: 100;
+  src: url("../../fonts/Poppins/Poppins-Thin.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 200;
+  src: url("../../fonts/Poppins/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 300;
+  src: url("../../fonts/Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  src: url("../../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  src: url("../../fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 600;
+  src: url("../../fonts/Poppins/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  src: url("../../fonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 800;
+  src: url("../../fonts/Poppins/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 900;
+  src: url("../../fonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: 300;
+  src: url("../../fonts/FiraCode/FiraCode-Light.ttf");
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: 400;
+  src: url("../../fonts/FiraCode/FiraCode-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: 500;
+  src: url("../../fonts/FiraCode/FiraCode-Medium.ttf");
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: 600;
+  src: url("../../fonts/FiraCode/FiraCode-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-weight: 700;
+  src: url("../../fonts/FiraCode/FiraCode-Bold.ttf");
+}
+
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.loading-spinner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=style.css.map */
