@@ -18,7 +18,7 @@
     },
     "license": "MIT",
     "config": {
-        "forge": {
+        "forge": { 
             "packagerConfig": {},
             "makers": [
                 {
